@@ -130,7 +130,7 @@ pi@raspberrypi:~ $ sudo sh get-docker.sh
 For every architecture there is a specialized ha-bridge Docker image available.
 Please use the suitable image from the following list.
 
-* Generic x86 / x86_64 system: [aptalca/home-automation-bridge](https://hub.docker.com/r/aptalca/home-automation-bridge)
+* Generic x86 / x86_64 system: [aptalca/home-automation-bridge](https://hub.docker.com/r/livehouseautomation/docker-ha-bridge)
 * Raspberry Pi 1 (ARM): [habridge/ha-bridge-raspberry-pi](https://hub.docker.com/r/habridge/ha-bridge-raspberry-pi)
 * Raspberry Pi 2 (ARM): [habridge/ha-bridge-raspberry-pi2](https://hub.docker.com/r/habridge/ha-bridge-raspberry-pi2)
 * Raspberry Pi 3 (ARM): [habridge/ha-bridge-raspberrypi3](https://hub.docker.com/r/habridge/ha-bridge-raspberrypi3)
